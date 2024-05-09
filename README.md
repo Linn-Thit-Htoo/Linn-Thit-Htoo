@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friends 🤟, I'm Linn Thit Htoo and you can call me Linn Thit! ⚡
 
 <!--
 **Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
