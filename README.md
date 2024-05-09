@@ -2,6 +2,8 @@
 
 🔥 C# / ASP.NET Core / Blazor 🔥
 
+<hr />
+
 💻 Main Tech Stack
 
 <div style="display:flex; justify-content: center;">
