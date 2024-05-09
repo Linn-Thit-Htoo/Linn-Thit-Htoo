@@ -4,7 +4,7 @@
 
 💻 Main Tech Stack
 
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)" width="128"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="128"/>
 
 <!--
 **Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
