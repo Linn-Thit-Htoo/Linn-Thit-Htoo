@@ -6,6 +6,10 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="60"/>
+
 <!--
 **Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
