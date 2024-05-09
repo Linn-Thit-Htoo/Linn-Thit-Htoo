@@ -5,9 +5,9 @@
 💻 Main Tech Stack
 
 <div style="display:flex; justify-content: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="45"/>
 </div>
 
 <!--
