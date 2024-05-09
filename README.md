@@ -4,7 +4,7 @@
 
 💻 Main Tech Stack
 
-[https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg]
+![C#]([images/example.png](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg))
 
 <!--
 **Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
