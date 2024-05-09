@@ -1,5 +1,7 @@
 ### Hello Friends 🤟, I'm Linn Thit Htoo and you can call me Linn Thit! ⚡
 
+🔥 C# / ASP.NET Core / Blazor 🔥
+
 <!--
 **Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
