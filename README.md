@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark)](https://git.io/streak-stats)
