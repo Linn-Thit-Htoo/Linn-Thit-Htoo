@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 3%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" width="400" height="500" alt="Anurag's GitHub stats" style="margin-right: 3%;">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" width="400" height="500">
     </a>
 </div>
