@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 -->
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical)
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 3%;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak">
+    </a>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark)](https://git.io/streak-stats)
