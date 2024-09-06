@@ -14,7 +14,7 @@
 
 <br />
 
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" />
+</a>
 <img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" />
-    </a>
