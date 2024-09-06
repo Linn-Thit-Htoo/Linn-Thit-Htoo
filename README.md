@@ -12,25 +12,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="45"/>
 </div>
 
-<!--
-**Linn-Thit-Htoo/Linn-Thit-Htoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br />
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" width="400" height="500" alt="Anurag's GitHub stats" style="margin-right: 3%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Linn-Thit-Htoo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" width="400" height="500">
+        <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" />
     </a>
-</div>
