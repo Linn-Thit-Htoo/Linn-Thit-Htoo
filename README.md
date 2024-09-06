@@ -34,4 +34,3 @@ Here are some ideas to get you started:
         <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak">
     </a>
 </div>
-
