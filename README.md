@@ -24,12 +24,11 @@
 <hr />
 
 ### 🚀 Projects List:
-- **[DotNet8 Mini Payroll Management System](https://github.com/Linn-Thit-Htoo/mini-payroll-management-system)** - A payroll management system built with .NET 8.
-- **[DotNet8 Web API Generic Repository Pattern Example](https://github.com/Linn-Thit-Htoo/webapi-generic-repository-pattern-example)** - An example showcasing the use of the generic repository pattern.
-- **[DotNet7 Expense Tracker API](https://github.com/Linn-Thit-Htoo/expense-tracker-api)** - An expense tracker API built using .NET 7.
-- **[Mini Banking Management System](https://github.com/Linn-Thit-Htoo/banking-management-system)** - A microservices-based banking management system.
-- **More projects on [my GitHub](https://github.com/Linn-Thit-Htoo?tab=repositories)**
-
+- **[Mini Banking Management System using Microservices Architecture](https://github.com/Linn-Thit-Htoo/Microservices.DotNet8MiniBankingManagementSystem)**
+- **[Expense Tracker API](https://github.com/Linn-Thit-Htoo/DotNet7.ExpenseTrackerApi)**
+- **[Mini Payroll Management System](https://github.com/Linn-Thit-Htoo/DotNet8.MiniPayrollManagementSystem)**
+- **[Mini Restaurant Management System](https://github.com/Linn-Thit-Htoo/DotNet8.MiniRestaurantManagementSystem)**
+- **[Doctor Appointment Booking System](https://github.com/Linn-Thit-Htoo/DotNet8.DoctorAppointmentBookingSystem)**
 <hr />
 
 ### 🌟 Most Used Languages:
