@@ -29,6 +29,7 @@
 - **[Mini Payroll Management System](https://github.com/Linn-Thit-Htoo/DotNet8.MiniPayrollManagementSystem)**
 - **[Mini Restaurant Management System](https://github.com/Linn-Thit-Htoo/DotNet8.MiniRestaurantManagementSystem)**
 - **[Doctor Appointment Booking System](https://github.com/Linn-Thit-Htoo/DotNet8.DoctorAppointmentBookingSystem)**
+- **[POS System](https://github.com/Linn-Thit-Htoo/pos_backend_csharp)**
 <hr />
 
 ### 🌟 Most Used Languages:
