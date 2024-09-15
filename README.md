@@ -14,7 +14,7 @@
 
 <br />
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=Linn-Thit-Htoo&theme=dark" alt="GitHub Streak" />
     </a>
