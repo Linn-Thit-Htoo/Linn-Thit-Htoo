@@ -32,11 +32,6 @@
 - **[POS System](https://github.com/Linn-Thit-Htoo/pos_backend_csharp)**
 <hr />
 
-### 🌟 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linn-Thit-Htoo&layout=compact&theme=radical)
-
-<hr />
-
 ### 📊 Contribution Level:
 <a href="https://github.com/Linn-Thit-Htoo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Linn-Thit-Htoo&theme=radical" />
