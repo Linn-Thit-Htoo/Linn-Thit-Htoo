@@ -38,3 +38,7 @@
 </a>
 
 <hr />
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Linn-Thit-Htoo&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
