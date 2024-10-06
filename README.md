@@ -1,6 +1,6 @@
 ### Hello Friends 🤟, I'm Linn Thit Htoo and you can call me Linn Thit! ⚡
 
-🔥 C# / ASP.NET Core / Blazor 🔥
+🔥 C# / ASP.NET Core / Blazor 🔥 
 
 <hr />
 
