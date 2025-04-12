@@ -1,4 +1,4 @@
-### Hello Friends 🤟, I'm Linn Thit Htoo and you can call me Linn Thit! ⚡
+### I'm Lin Thit Htoo who is 19 years old. I'm working as Senior Software Engineer at Legacy Music and Flow.
 
 🔥 C# / ASP.NET Core / Blazor 🔥 
 
