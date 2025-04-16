@@ -26,6 +26,7 @@
 ### 🚀 Projects List:
 - **[Manual implementation of API Gateway including dynamic routing, service discovery, load balancing, authentication, scope-based authorization and rate limiting](https://github.com/Linn-Thit-Htoo/Manual-Ocelot)**
 - **[Custom implementation of MicroORM](https://github.com/Linn-Thit-Htoo/PPM.MicroORM)**
+- **[Custom service registry including tenant management, multi-tenancy, streaming logs via SSE, service registry and dynanmic service discovery]([https://github.com/Linn-Thit-Htoo/PPM.MicroORM](https://github.com/Linn-Thit-Htoo/csharp-custom-service-registry))**
 - **[Mini Banking Management System using Microservices Architecture](https://github.com/Linn-Thit-Htoo/Microservices.DotNet8MiniBankingManagementSystem)**
 - **[Expense Tracker API](https://github.com/Linn-Thit-Htoo/DotNet7.ExpenseTrackerApi)**
 - **[Mini Payroll Management System](https://github.com/Linn-Thit-Htoo/DotNet8.MiniPayrollManagementSystem)**
