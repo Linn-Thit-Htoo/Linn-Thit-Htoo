@@ -27,8 +27,8 @@
 
 | Project Name            | Year           | Position          |
 |-------------------------|----------------|-------------------|
-| **FLOW (Streaming paltform with 600K users)**          | 2025 FEB – Present | Senior Software Engineer |
-| **FLOW For Artist**          | 2025 FEB – Present | Senior Software Engineer |
+| **FLOW (Streaming paltform with 600K users)**          | 2025 Feb – Present | Senior Software Engineer |
+| **FLOW For Artist**          | 2025 Feb – Present | Senior Software Engineer |
 | **Core Insurance System**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
 | **CRM** | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
 | **Notification System (enterprise level)**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
