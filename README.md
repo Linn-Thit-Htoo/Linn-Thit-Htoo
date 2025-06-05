@@ -23,7 +23,19 @@
 
 <hr />
 
-### 🚀 Projects List:
+## Projects
+
+| Project Name            | Year           | Position          |
+|-------------------------|----------------|-------------------|
+| **FLOW (Streaming paltform with 600K users)**          | 2025 FEB – Present | Senior Software Engineer |
+| **FLOW For Artist**          | 2025 FEB – Present | Senior Software Engineer |
+| **Core Insurance System**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
+| **CRM** | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
+| **Notification System (enterprise level)**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
+| **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
+| **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
+
+### 🚀 Side Projects:
 - **[Manual implementation of API Gateway including dynamic routing, service discovery, load balancing, authentication, scope-based authorization and rate limiting](https://github.com/Linn-Thit-Htoo/Manual-Ocelot)**
 - **[Custom implementation of MicroORM](https://github.com/Linn-Thit-Htoo/PPM.MicroORM)**
 - **[Custom service registry including tenant management, multi-tenancy, streaming logs via SSE, service registry and dynanmic service discovery](https://github.com/Linn-Thit-Htoo/csharp-custom-service-registry)**
