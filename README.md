@@ -36,6 +36,8 @@
 | **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
 | **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
 | **Real Estate Management System**           | 2024 (Freelance) | Freelance Software Engineer |
+| **GYM Management System**           | 2024 (Freelance) | Freelance Software Engineer |
+| **Grocery Dealing System**           | 2024 (Freelance) | Freelance Software Engineer |
 
 ### 🚀 Side Projects:
 - **[Manual implementation of API Gateway including dynamic routing, service discovery, load balancing, authentication, scope-based authorization and rate limiting](https://github.com/Linn-Thit-Htoo/Manual-Ocelot)**
