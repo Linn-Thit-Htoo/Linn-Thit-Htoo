@@ -1,6 +1,8 @@
 ### I'm Lin Thit Htoo who is 20 years old. I'm working as Senior Software Engineer at Legacy Music and Flow.
 
-🔥 C# / ASP.NET Core / Blazor 🔥 
+🔥 C# / ASP.NET Core / Blazor 🔥
+
+[![committers.top badge](https://user-badge.committers.top/myanmar_private/Linn-Thit-Htoo.svg)](https://user-badge.committers.top/myanmar_private/Linn-Thit-Htoo)
 
 <hr />
 
