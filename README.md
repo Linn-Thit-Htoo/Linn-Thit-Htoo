@@ -29,9 +29,9 @@
 
 | Project Name            | Year           | Position          |
 |-------------------------|----------------|-------------------|
-| **FLOW (Streaming paltform with 600K users)**          | 2025 Feb – Present | Senior Software Engineer |
-| **FLOW CMS**          | 2025 Feb – Present | Senior Software Engineer |
-| **FLOW For Artist CMS**          | 2025 Feb – Present | Senior Software Engineer |
+| **FLOW (Streaming paltform with 600K users)**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
+| **FLOW CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
+| **FLOW For Artist CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
 | **LMS**          | 2025 (Freelance) | Senior Software Engineer |
 | **Core Insurance System**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
 | **CRM** | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
