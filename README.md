@@ -29,6 +29,9 @@
 
 | Project Name            | Year           | Position          |
 |-------------------------|----------------|-------------------|
+| **Customer Portal**          | 2025 Sep – Preseent | Senior Software Engineer |
+| **Intermediary Portal**          | 2025 Sep – Preseent | Senior Software Engineer |
+| **Batch Jobs**          | 2025 Sep – Preseent | Senior Software Engineer |
 | **FLOW (Streaming paltform with 600K users)**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
 | **FLOW CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
 | **FLOW For Artist CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
