@@ -27,20 +27,25 @@
 
 ## Projects
 
-| Project Name            | Year           | Position          |
-|-------------------------|----------------|-------------------|
-| **FLOW (Streaming paltform with 600K users)**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
-| **FLOW CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
-| **FLOW For Artist CMS**          | 2025 Feb – 2025 Sep | Senior Software Engineer |
-| **LMS**          | 2025 (Freelance) | Senior Software Engineer |
-| **Core Insurance System**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
-| **CRM** | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
-| **Notification System (enterprise level)**          | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
-| **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
-| **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Mid-Senior Software Engineer |
-| **Real Estate Management System**           | 2024 (Freelance) | Part-Time Software Engineer |
-| **Grocery Dealing System**           | 2024 (Freelance) | Part-Time Software Engineer |
-| **GYM Management System**           | 2023 (Freelance) | Part-Time Software Engineer |
+| Project Name            | Year           | Position          | Company           |
+|-------------------------|----------------|-------------------|-------------------|
+| **Policy Holder Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
+| **Agent Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
+| **Admin Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
+| **ILP API** | 2025 Sep - Current | Software Engineer | Tokio Marine |
+| **GIRO batch job with AS400 pub/sub integration** | 2025 Sep - Current | Software Engineer | Tokio Marine |
+| **FLOW (Streaming paltform with 600K+ users)**          | 2025 Feb – 2025 Sep | Software Engineer | Legacy Music |
+| **FLOW CMS**          | 2025 Feb – 2025 Sep | Software Engineer | Legacy Music |
+| **FLOW For Artist CMS**          | 2025 Feb – 2025 Sep | Software Engineer | Legacy Music |
+| **LMS**          | 2025 (Freelance) | Software Engineer | Freelance |
+| **Core Insurance System**          | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
+| **CRM** | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
+| **Notification System (enterprise level)**          | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
+| **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
+| **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
+| **Real Estate Management System**           | 2024 (Freelance) | Part-Time Software Engineer | NK Software House |
+| **Grocery Dealing System**           | 2024 (Freelance) | Part-Time Software Engineer | NK Software House |
+| **GYM Management System**           | 2023 (Freelance) | Part-Time Software Engineer | NK Software House |
 
 ### 🚀 Side Projects:
 - **[Manual implementation of API Gateway including dynamic routing, service discovery, load balancing, authentication, scope-based authorization and rate limiting](https://github.com/Linn-Thit-Htoo/Manual-Ocelot)**
