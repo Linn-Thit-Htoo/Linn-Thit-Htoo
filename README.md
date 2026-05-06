@@ -29,6 +29,7 @@
 
 | Project Name            | Year           | Position          | Company           |
 |-------------------------|----------------|-------------------|-------------------|
+| **Straight Through Processing with AS400 pub/sub integration** | 2025 Sep - Current | Software Engineer | Tokio Marine |
 | **Policy Holder Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
 | **Agent Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
 | **Admin Portal** | 2025 Sep - Current | Software Engineer | Tokio Marine |
