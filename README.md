@@ -43,10 +43,10 @@
 | **Notification System (enterprise level)**          | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
 | **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
 | **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
-| **Real Estate Management System**           | 2024 (Freelance) | Part-Time Software Engineer | NK Software House |
-| **Grocery Dealing System**           | 2024 (Freelance) | Part-Time Software Engineer | NK Software House |
-| **GYM Management System**           | 2023 (Freelance) | Part-Time Software Engineer | NK Software House |
-| **Gold Shop**           | 2023 (Freelance) | Part-Time Software Engineer | NK Software House |
+| **Real Estate Management System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
+| **Grocery Dealing System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
+| **GYM Management System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
+| **Gold Shop**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
 
 ### 🚀 Side Projects:
 - **[Manual implementation of API Gateway including dynamic routing, service discovery, load balancing, authentication, scope-based authorization and rate limiting](https://github.com/Linn-Thit-Htoo/Manual-Ocelot)**
