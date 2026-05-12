@@ -1,4 +1,4 @@
-### I'm Lin Thit Htoo who is 20 years old. I'm working as Software Engineer at Tokio Marine Asia.
+### I'm Lin Thit Htoo who is 21 years old. I'm working as Software Engineer at Tokio Marine and D3-SG.
 
 🔥 C# / ASP.NET Core / Blazor 🔥
 
