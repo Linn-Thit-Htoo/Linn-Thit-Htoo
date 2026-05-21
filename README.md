@@ -46,7 +46,7 @@
 | **EMS Payment Integration**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
 | **Enterprise level CRON Scheduler**           | 2024 Oct – 2025 Jan | Software Engineer | KBZ LIFE Insurance |
 | **Real Estate Management System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
-| **Grocery Dealing System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
+| **Grocery Dealing System**           | 2023 | Software Engineer | Freelance |
 | **GYM Management System**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
 | **Gold Shop**           | 2023 May - 2024 Oct | Software Engineer | NK Software House |
 
